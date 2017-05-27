@@ -1,0 +1,12 @@
+Lesson 1 Reflections 
+
+I can't remember what I was supposed to reflect on, but at least I am using the command line to navigate. 
+
+Pros: Control over when you commit, very logical 
+Cons: User error, work for use
+
+Git is often used for files where it is logical for multiple files to be shared by one commit. Other, like Google Docs for example, use files that are not interrelated and thus should not be saved together under the same GIT
+
+You can view and compare any version of your file using git log and git diff
+
+You can make experimental changes that will not affect your code
