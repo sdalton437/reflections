@@ -1,1 +1,3 @@
 You need to make a repository to make commits
+
+The staging area has not been made into a commit yet. It alows you to organize which files you want to add to your commit. 
